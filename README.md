@@ -1,2 +1,3 @@
-# build-polished-browser-game-1
-Built with Zip→APK
+# build-polished-browser-game (1)
+
+Auto-built APK via GitHub Actions. Download from the **Releases** page.
